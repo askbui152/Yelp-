@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
 1. Show location of restaurant on map
-2. Search and filter (as I did not get to it)
+2. Search and filter (as I did not get it to work)
 
 ## Video Walkthrough 
 
@@ -40,6 +40,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+I was not able to get the search bar to work. I tried following the tutorial but I was not able to apply it to the business object.
 
 ## License
 
